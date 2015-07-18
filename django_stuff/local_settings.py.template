@@ -1,4 +1,4 @@
-SECRET_KEY = ''
+SECRET_KEY = '867+6%c0-9kf8dp5+_i08!jptr^v7yed9j!bwuk0@phehsn1#7'
 
 DEBUG = True
 
@@ -6,11 +6,11 @@ ALLOWED_HOSTS = []
 
 DATABASES = {
     'default': {
-        'ENGINE': ''
-        'NAME': ''
-        'USER': ''
-        'PASSWORD': ''
-        'HOST': ''
-        'PORT' ''
+        'ENGINE': '',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
